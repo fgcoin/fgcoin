@@ -1,0 +1,2 @@
+# fgcoin
+Future Game Coin
